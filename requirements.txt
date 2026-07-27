@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+mlxtend
+networkx
+numpy
+pandas
+scikit-learn
+statsmodels
+python-louvain
